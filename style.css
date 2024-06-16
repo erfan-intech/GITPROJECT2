@@ -1,0 +1,45 @@
+
+* {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+
+
+
+
+
+
+
+
+h1,h3 {   
+    text-align: center;
+    background-color: bisque;
+}
+
+.container{
+    /* background-color: aqua; */
+    border: 2px solid black;
+    width: 90%;
+    height: auto;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.div11{
+    background-color: darkslateblue;
+    width: 200px;
+    height: 200px;
+}
+.div12{
+    background-color: burlywood;
+    width: 200px;
+    height: 200px;
+}
+.div13{
+    background-color: royalblue;
+    width: 200px;
+    height: 200px;
+}
